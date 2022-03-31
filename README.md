@@ -28,7 +28,7 @@ struct NinePatchConfigs {
         bottom: 19,
         trailing: 15
     ),
-    // Any padding required for the content given the tiled image.
+    // The padding required to align the content area with the border images.
     contentPadding: .init(
         top: 4,
         leading: 8,
